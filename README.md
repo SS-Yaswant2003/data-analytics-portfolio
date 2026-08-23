@@ -65,6 +65,10 @@ The dataset contains **500 sales transactions** with information including:
 * **April** recorded the lowest monthly sales at approximately **₹1.06 million**.
 * The dashboard provides regional and product-level views of both sales and profitability.
 
+### Dashboard Preview
+
+<img width="1430" height="742" alt="excel-dashboard" src="https://github.com/user-attachments/assets/d8b75765-1f48-49c9-89ed-f9551527ef15" />
+
 ---
 
 ### 2. 📱 Mobile Sales Dashboard — Power BI
