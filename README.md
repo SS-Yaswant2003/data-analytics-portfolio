@@ -159,6 +159,10 @@ The project includes DAX measures for:
 * Month-to-Date (MTD) Sales
 * Same Period Last Year Sales
 
+### Dashboard Preview
+
+<img width="1316" height="741" alt="image" src="https://github.com/user-attachments/assets/130ad5b9-ceac-416f-9b9c-99105cff90ed" />
+
 ---
 
 ## 🧰 Skills Demonstrated
