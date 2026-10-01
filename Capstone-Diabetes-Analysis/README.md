@@ -96,6 +96,8 @@ Analyzes:
 - Diabetes by Gender
 - Demographic filters
 
+<img width="1372" height="741" alt="image" src="https://github.com/user-attachments/assets/02de3c99-6c8a-4e34-be6d-8575f1fa8b2d" />
+
 ### 2. Clinical & Health Report
 
 Analyzes clinical indicators including:
@@ -105,6 +107,8 @@ Analyzes clinical indicators including:
 - Hemoglobin
 - Blood pressure
 - Other health-related indicators
+
+<img width="1367" height="742" alt="image" src="https://github.com/user-attachments/assets/8d166dce-3a86-42c3-8e5f-6a17d2322212" />
 
 ### 3. Lifestyle Analysis
 
@@ -117,6 +121,8 @@ Analyzes relationships between diabetes status and:
 - Diet
 - Lifestyle-related factors
 
+<img width="1356" height="742" alt="image" src="https://github.com/user-attachments/assets/a060a0bb-9839-4573-8427-99cf366ed578" />
+
 ### 4. Diabetes Risk & Medical History
 
 Analyzes:
@@ -127,6 +133,8 @@ Analyzes:
 - Hypertension History
 - Cardiovascular History
 - Diabetes status
+
+<img width="1357" height="742" alt="image" src="https://github.com/user-attachments/assets/857fb5b1-c072-4c8d-8768-57705cbabe0e" />
 
 ## 🛠️ Tools & Technologies
 
