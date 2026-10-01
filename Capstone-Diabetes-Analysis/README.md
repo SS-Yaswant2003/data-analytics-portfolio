@@ -162,11 +162,6 @@ Analyzes:
 - Risk Analysis
 - Business Intelligence
 
-## 📂 Project Files
-
-- `Diabetic Disease Data.xlsx` — Excel dataset and analysis
-- `DIABETIC DISEASE POWER BI.pbix` — Power BI interactive dashboard
-
 ## 👨‍💻 Project Overview
 
 This capstone project demonstrates the complete data analytics workflow, from raw patient data preparation and exploratory analysis to SQL-based querying and interactive Power BI dashboard development.
